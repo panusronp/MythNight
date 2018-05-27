@@ -30,7 +30,7 @@ img{max-width:100%;}
 body{
 	margin:0;
 	padding:0;
-	background: url(../images/1.jpg);
+	background: url(../images/bg-01.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -42,8 +42,8 @@ body{
 	 font-family: 'Roboto', sans-serif;
  }
 h1,h2,h3,h4,h5,h6{
-	margin:0;	
-}	
+	margin:0;
+}
 p{
 	margin:0;
 }
@@ -61,7 +61,7 @@ input[type="submit"],a,.agileinfo_social_icons li{
 	-o-transition:.5s ease-in;
 	-ms-transition:.5s ease-in;
 }
- 
+
 /*-- banner --*/
 .center-container{
 	padding:0em 0;
